@@ -9,8 +9,8 @@ document.addEventListener("DOMContentLoaded", async () => {
   const renameMap = {
     "zora.eth": "Zora Core",
     "Unknown": "Unnamed",
-    "wiwizn by qubibi": "qubibi"
-    "wiwizn Part III by qubibi": "qubibi"
+    "wiwizn by qubibi": "qubibi",
+    "wiwizn Part III by qubibi": "qubibi",
     // Add more mappings as needed
   };
 
