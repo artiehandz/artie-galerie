@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Artie Galerie</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body class="bg-gray-100 text-gray-800">
+  <div class="flex h-screen overflow-hidden">
+    <aside class="w-64 p-4 border-r border-gray-300 bg-[#e0e7ff] overflow-y-auto" id="artistList">
+      <div class="text-lg font-bold mb-4">Artists</div>
+    </aside>
+    <main class="flex-1 overflow-y-auto p-6">
+      <div id="logoScreen" class="flex flex-col items-center justify-center h-full text-center">
+        <img src="assets/artie_logo.png" alt="Artie Galerie" class="w-40 mb-4 opacity-70" />
+        <p class="italic text-gray-600">Please select a node to view debris.</p>
+      </div>
+      <div id="gallery" class="hidden grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4"></div>
+    </main>
+  </div>
+  <script src="app.js"></script>
+</body>
+</html>
