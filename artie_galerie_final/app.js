@@ -12,11 +12,11 @@ document.addEventListener("DOMContentLoaded", async () => {
     "wiwizn by qubibi": "qubibi",
     "wiwizn Part III by qubibi": "qubibi",
     "Gazers by Matt Kane": "Matt Kane",
-    "Milk and Cookies by Matt Kane"; "Matt Kane",
-    "Souvenirs by Matt Kane"; "Matt Kane",
-    "Tide Pools by Matt Kane"; "Matt Kane",
-    "FREE MATT KANE"; "Matt Kane",
-    "Etch by Matt Kane and Deca"; "Matt Kane"
+    "Milk and Cookies by Matt Kane": "Matt Kane",
+    "Souvenirs by Matt Kane": "Matt Kane",
+    "Tide Pools by Matt Kane": "Matt Kane",
+    "FREE MATT KANE": "Matt Kane",
+    "Etch by Matt Kane and Deca": "Matt Kane"
     // Add more mappings as needed
   };
 
