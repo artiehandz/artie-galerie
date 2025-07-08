@@ -11,7 +11,12 @@ document.addEventListener("DOMContentLoaded", async () => {
     "Unknown": "Unnamed",
     "wiwizn by qubibi": "qubibi",
     "wiwizn Part III by qubibi": "qubibi",
-    ""Magical" Door by qubibi": "qubibi"
+    "Gazers by Matt Kane": "Matt Kane",
+    "Milk and Cookies by Matt Kane"; "Matt Kane",
+    "Souvenirs by Matt Kane"; "Matt Kane",
+    "Tide Pools by Matt Kane"; "Matt Kane",
+    "FREE MATT KANE"; "Matt Kane",
+    "Etch by Matt Kane and Deca"; "Matt Kane"
     // Add more mappings as needed
   };
 
