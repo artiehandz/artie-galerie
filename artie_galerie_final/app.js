@@ -11,7 +11,6 @@ document.addEventListener("DOMContentLoaded", async () => {
     "Unknown": "Unnamed",
     "wiwizn by qubibi": "qubibi"
     "wiwizn Part III by qubibi": "qubibi"
-    ""Magical" Door by qubibi": "qubibi"
     // Add more mappings as needed
   };
 
