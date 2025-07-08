@@ -10,7 +10,7 @@ document.addEventListener("DOMContentLoaded", async () => {
     "zora.eth": "Zora Core",
     "Unknown": "Unnamed",
     "wiwizn by qubibi": "qubibi",
-    "wiwizn Part III by qubibi": "qubibi",
+    "wiwizn Part III by qubibi": "qubibi"
     // Add more mappings as needed
   };
 
